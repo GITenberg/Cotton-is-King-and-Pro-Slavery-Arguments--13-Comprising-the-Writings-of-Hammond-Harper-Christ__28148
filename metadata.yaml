@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33167'
     url: http://www.gutenberg.org/2009/agents/33167
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28148#Cotton-is-King-and-Pro-Slavery-Arguments--13-Comprising-the-Writings-of-Hammond-Harper-Christ_
 gutenberg_issued: '2009-02-20'
 gutenberg_type: Text
 identifiers:
